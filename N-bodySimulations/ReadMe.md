@@ -1,1 +1,1 @@
-This notebook was insired by https://github.com/pmocz/nbody-python
+This notebook was inspired by https://github.com/pmocz/nbody-python
